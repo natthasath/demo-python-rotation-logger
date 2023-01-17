@@ -1,2 +1,2 @@
 # demo-python-rotation-logger
-Logging is component of python for tracking event in application, It's very important for developer
+A rotation logger is a device or software that records and tracks the rotational movement of an object, typically measuring rotational speed, angle, and direction over time. The data collected is saved in a log file for later analysis.
